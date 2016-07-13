@@ -1,0 +1,12 @@
+#hide-button{
+	display: block;
+}
+#main-options-page-welcome-panel {
+	display: none;
+}
+#hide-button{
+	text-align: center;
+}
+#by-almondwp{
+	font-size: 12px;
+}
